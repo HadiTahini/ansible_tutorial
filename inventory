@@ -1,2 +1,9 @@
+[web_servers]
 panda@192.168.114.243
+
+[db_servers]
 Hadi@192.168.114.147
+panda@192.168.114.243
+
+[file_servers]
+panda@192.168.114.243
